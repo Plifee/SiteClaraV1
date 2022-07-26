@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset = "UTF-8">
@@ -13,7 +13,7 @@
 
 	<h1><img src = "img/banner.jpeg" width="" style="
     width: 100%;
-    height: 600px;" >></h1>
+    height: 100%;" >></h1>
 
 <nav>
 		<ul>
