@@ -3,6 +3,9 @@
 	<head>
 		<meta charset = "UTF-8">
 		<title> MELHOR FILHA DO MUNDO </title>
+		<style type= "text/css">
+			img {border-radius: 30px;}
+		</style>
 	<link rel="stylesheet" href="Produtos.css" >
 	<link rel="stylesheet" href="reset.css" >
 	</head>
@@ -11,9 +14,8 @@
 	<header>
 	<div class= "caixa">
 
-	<h1><img src = "img/banner.jpeg" width="" style="
-    width: 100%;
-    height: 100%;" >><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fL9jXiE9WIkmcxG2b7pVZ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></h1>
+	<h1><img src = "img/logo.jpeg" width="" style="
+    " >><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fL9jXiE9WIkmcxG2b7pVZ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></h1>
 
 <nav>
 		<ul>
@@ -27,9 +29,9 @@
 	<ul class="produtos">
 
 <li>
-	<h2>MELHOR FILHA DO MUNDO</h2>
-	<a href= "https://www.youtube.com/watch?v=-h2p-o1Tn-0"> <img src="img/logo1.jpeg"></a>
-	<p class="produto-preco">MUSIQUINHA CHATA QUE TU GOSTA</p>
+	<h2>MELHOR FILHA</h2>
+	<a href= "https://www.youtube.com/watch?v=-h2p-o1Tn-0"> <img src="img/viado.jpeg"></a>
+	<p class="produto-preco">MUSIQUINHA CHATA</p>
 	<p class="produto-preco">ALEATORIA</p>
 </li>
 <li>
@@ -48,8 +50,8 @@
 </ul>
 </main>	
 <footer>
-	<img src="img/viado.png">
-	<p class: final>&Xi; Copyright Plifee 2022
+	<img src="img/viado2.png">
+	<p class: final> &Xi;Copyright Plifee 2022&Xi; </p>
 </footer>
 </body>
-</html>****
+</html>
