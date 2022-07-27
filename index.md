@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset = "UTF-8">
@@ -9,14 +8,12 @@
 	<link rel="stylesheet" href="Produtos.css" >
 	<link rel="stylesheet" href="reset.css" >
 	</head>
-
 	<body>
 	<header>
 	<div class= "caixa">
 
-	<h1><img src = "img/logo.jpeg" width="" style="
-    " >><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fL9jXiE9WIkmcxG2b7pVZ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></h1>
-
+	<h1><img src = "img/coracao.jpeg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3fL9jXiE9WIkmcxG2b7pVZ?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></h1>
 <nav>
 		<ul>
 		<li><a href= "https://www.youtube.com/watch?v=vc3vqyftPyg"> Produtos</a></li>
@@ -43,15 +40,22 @@
 <li>
 	<h2>JOGUINHO CHATO</h2>
 	<a href= "https://www.colorir-online.com/colorir-dinossauros/tyrannosaurus/index.php"><img src="img/logo4.jpeg"></a>
-	<p class="produto-preco">DINOSSAUROOOOO</p>
-	<p>COLORIR</p>
+	<p class="produto-preco">DINOSSAURO</p>
+	<p class="produto-preco">COLORIR</p>
+
+</li>
+<li>
+	<h2>JOGUINHO CHATO</h2>
+	<a href= "https://www.colorir-online.com/colorir-dinossauros/tyrannosaurus/index.php"><img src="img/logo4.jpeg"></a>
+	<p class="produto-preco">DINOSSAURO</p>
+	<p class="produto-preco">COLORIR</p>
 
 </li>
 </ul>
 </main>	
 <footer>
-	<img src="img/viado2.png">
-	<p class: final> &Xi;Copyright Plifee 2022&Xi; </p>
+	<a href= "https://api.whatsapp.com/send/?phone=5521996449455"><img src="img/viado2.png"></a>
+	<p class: final> &Xi;Copyright Plifee 2022&Xi;</p>
 </footer>
 </body>
 </html>
