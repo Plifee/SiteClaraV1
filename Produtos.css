@@ -1,7 +1,25 @@
+
+
 header {
 	background-image: url("img/logo.jpeg");
 	padding: 20px 0;
+	display: block;
+}
+form {
+	background: pink;
 }	
+.enviar {
+		padding: 5px 0;
+		font-weight: bold;
+		border: none;
+		border-radius: 7px;
+		transition: 1s background;
+		cursor: pointer;
+}
+.enviar:hover {
+	background: red;
+	transform: scale(1.5);
+}
 .caixa {
 	position: relative;
 	width: 940px;
@@ -45,6 +63,7 @@ nav a:hover {
 	box-sizing: border-box;
 	border: 10px solid rgb(201, 192, 255);
 	border-radius: 30px;
+	
 }
 .produtos li:hover {
 	border-color: pink;
@@ -53,8 +72,16 @@ nav a:hover {
 	border-color: pink;
 }
 .produtos li:hover h2 {
-	font-size: 30px;
+	font-size: 25px;
 	color: pink;
+}
+.geeks img {
+	width: auto;
+	transition: 0.5s all ease-in-out;
+}
+
+.geeks:hover img {
+	transform: scale(1.5);
 }
 .produtos h2 {
 	font-size: 15px;
