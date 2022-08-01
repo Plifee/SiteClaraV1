@@ -1,0 +1,132 @@
+.degrade{
+	background:radial-gradient(black,pink);
+}
+header {
+	background-image: url("img/logo.jpeg");
+	padding: 20px 0;
+	display: block;
+}
+form {
+	background: pink;
+}	
+.enviar {
+		padding: 5px 0;
+		font-weight: bold;
+		border: none;
+		border-radius: 7px;
+		transition: 1s background;
+		cursor: pointer;
+}
+.enviar:hover {
+	background: red;
+	transform: scale(1.5);
+}
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+nav li{
+	display: inline;	
+	margin: 0 0 0 15px;
+}	
+nav a {
+	text-transform: uppercase;
+	color: #000000
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: none;
+}
+nav a:hover {
+	color: rgb(2, 2, 2);
+	text-decoration: underline;
+}
+.produtos {
+	background:radial-gradient(black,pink);
+	width: 100%;
+	margin: 0 auto;
+	padding: 50px 0;
+
+}
+.produtos li {
+	display: inline-block;
+	text-align: center;
+	width: 21%;
+	vertical-align: top;
+	background: rgb(201, 192, 255);
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 10px solid rgb(201, 192, 255);
+	border-radius: 30px;
+	
+}
+.produtos li:hover {
+	border-color: pink;
+}
+.produtos li:active {
+	border-color: pink;
+}
+.produtos li:hover h2 {
+	font-size: 25px;
+	color: pink;
+}
+.nova-aba h3{
+	text-align: center;
+	font-size: 18px;
+	width: 30%;
+	padding: 30px;
+	font-family: Copperplate, Papyrus, fantasy;
+    color:black;
+}
+.geeks img {
+	width: auto;
+	transition: 1.0s all ease-in-out;
+}
+
+.geeks:hover img {
+	transform: scale(1.5);
+}
+.produtos h2 {
+	font-size: 15px;
+	font-family: Copperplate, Papyrus, fantasy;
+	color: rgb(231, 225, 225);
+}
+.produto-preco:hover {
+	font-size:30px;
+}
+.produto-preco {
+	font-size: 15px;
+	font-family: Copperplate, Papyrus, fantasy;
+	margin-top: 10px;
+	color: rgb(12, 12, 12);
+}
+.final-novo:hover {
+	transform: scale(1.5);
+}
+footer {
+	text-align: center;
+	background:radial-gradient(black,pink); //url
+	padding: 40px 0;	
+}
+.final {
+	color: rgb(8, 8, 8);
+	font-size: 15px;
+}
+/* @media screen and (max-width: 480px) { /*
+	.produtos, .caixa, .geeks, .geeks:hover{
+		width:auto;
+	}
+		h1{
+			text-align: center;
+		}
+		nav{
+			position: static;
+		}
+	
+	}
